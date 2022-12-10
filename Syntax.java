@@ -1,6 +1,6 @@
 import java.util.List;
 
-public class Syntax {       //takes in a list of token object in its constructor
+public class Syntax {       //#4: takes in a list of token object in its constructor
     static List<String> tokens;
 
     Syntax(List<String> tokens) {
