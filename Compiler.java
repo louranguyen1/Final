@@ -1,7 +1,7 @@
 import java.util.*;
 import java.io.*;
 
-public class Compiler {     //compiler class
+public class Compiler {     //#2: compiler class
 
     public Compiler() {
         //empty since there isnt anything that needs to be initialized
