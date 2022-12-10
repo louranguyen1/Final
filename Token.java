@@ -1,5 +1,3 @@
-package com.company;
-
 public class Token {        //class for token
     public static String lexeme;   //string for lexeme representation
     public static int tokenCode;       //int for token code
