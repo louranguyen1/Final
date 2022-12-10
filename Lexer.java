@@ -6,7 +6,7 @@ public class Lexer {
     static String input;
     static List<String> tokens;
 
-    Lexer(String input) {       //takes in a string in its constructor
+    Lexer(String input) {       //#3: takes in a string in its constructor
         this.input = input;
         this.tokens = null;
         this.getToken(input);
